@@ -14,6 +14,13 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 gem 'carrierwave'
+gem 'devise'
+gem 'rails-i18n', '~> 5.1'
+gem 'devise-i18n'
+gem 'bootstrap', '~> 4.5'
+gem 'jquery-rails'
+gem 'devise-bootstrap-views', '~> 1.0'
+
 
 
 group :development, :test do
